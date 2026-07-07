@@ -24,6 +24,12 @@
 > **Arma:** +50 ATK
 > **Armadura:** -50 de daño físico recibido
 
+Los jugadores pueden crear sus propias piezas de equipamiento, pero a no ser que se utilicen materiales extraordinarios conseguidos en una mazmorra, evento o sean aprobados por un Arbitro (GM) la rareza maxima que los jugadores pueden fabricar es **🔵 Raro**.
+
+Al crear un personaje nuevo, a no ser que sea parte del TOP solo puede tener 1 equipamiento **🔵 Raro**.
+
+
+
 > [!warning] Importante
 > La reducción de daño de las armaduras aplica únicamente a ataques físicos. Las habilidades kármicas no se ven afectadas por la armadura.
 

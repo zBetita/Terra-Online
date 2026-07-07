@@ -19,10 +19,10 @@
 ## Escala de poder
 
 > [!info] ¿Cómo sé si alguien es más fuerte?
-> Si una persona tiene más karma que tú, puedes asumir que te supera. Aunque hay más variables como la experiencia de combate y las técnicas conocidas.
+> Si una persona tiene mucho más karma que tú, puedes asumir que te supera. Aunque hay más variables como la experiencia de combate y las técnicas conocidas.
 
 > [!warning] Diferencia formidable
-> Una diferencia a partir de los 100 de karma es formidable pero no imposible de superar. A partir de ese número la diferencia en fuerza empieza a ser rápidamente abismal.
+> Una diferencia a partir de los 500 de karma es formidable pero no imposible de superar. A partir de ese número la diferencia en fuerza empieza a ser rápidamente abismal.
 
 ## Ver también
 - [[Karma]]

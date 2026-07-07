@@ -58,17 +58,86 @@
 > Ver [[Combate]] para la tabla completa de valores.
 
 > [!note] Habilidad principal
-> La única habilidad activa del personaje. Debe incluir nombre, CD, karma consumido y descripción del efecto.
+> La única habilidad activa del personaje. Debe incluir nombre, CD, karma consumido y descripción del efecto. Si la habilidad no es ofensiva o no recupera Karma no consume Karma.
 
 > [!note] Pasiva propia
 > Una única pasiva que refleja el estilo o identidad del personaje. No consume karma ni tiene CD.
 
 > [!note] Pasiva de gremio — Solo Elegido por Gremio
 > Pasiva otorgada por el gremio que crió al personaje. No consume karma ni tiene CD.
-> Ver [[Elegido por Gremio]] para las pasivas disponibles por gremio.
+> Ver [[Elegido por Gremio]] para las pasivas disponibles por gremio. La pasiva es solamente **Narrativa**
 
 ---
+# Formato Actual
 
+
+—〔 ✎⚘𝘍𝘪𝘤𝘩𝘢 𝘙𝘰𝘭𝘦𝘱𝘭𝘢𝘺 ✧ 〕
+
+「✿┊「Nombre-apellido❞」
+
+—
+
+「✿┊ Estatura❞」
+
+—
+
+「✿┊Edad❞」
+
+—
+
+「✿┊Personalidad❞」
+
+—
+
+「✿┊Genero❞」
+
+—
+
+
+— 「✿┊Historia」
+
+—
+
+— 「✿┊Nacionalidad」
+
+—
+
+— 「✿┊Raza」
+
+—
+
+
+〈 ❀ 〉 - - - - - - - - - -
+
+「✿┊Karma ❞」
+
+—
+
+「✿┊Configuración❞」
+
+—
+
+
+「✿┊Clase ❞」
+
+—
+
+「✿┊Equipamiento ❞」
+
+—
+
+「✿┊Habilidad principal❞」
+
+—
+
+「✿┊Pasiva❞」
+
+—
+
+—〔 ✎⚘𝘐𝘮𝘢𝘨𝘦𝘯/𝘦𝘴 𝘥𝘦 𝘳𝘦𝘧𝘦𝘳𝘦𝘯𝘤𝘪𝘢 ✧ 〕
+
+
+---
 ## Ver también
 - [[Combate]]
 - [[Karma]]
