@@ -27,6 +27,9 @@ En esta Wikipedia se encontraran con diversas funciones de este sistema, desde l
 ## 🐉 Bestiario de Anormalidades
 Clasificadas por nivel de riesgo, de menor a mayor:
 
+> [!Warning] En construccion
+> Todo lo respectivo a los E.G.Os y Anormalidades todavia se esta construyendo, pero esta publico para que se hagan una idea general
+
 | Nivel   | Riesgo   |                          |
 | ------- | -------- | ------------------------ |
 | ז ZAYIN | Mínimo   | [[ZAYIN\|Ver bestiario]] |
