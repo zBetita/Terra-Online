@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/zBetita/Terra-Online.git
+  baseUrl: zbetita.github.io/Terra-Online/
   ignorePatterns:
     - private
     - templates
