@@ -37,15 +37,8 @@
 
 ## Pasiva de Gremio
 
-> [!example] Jugada maestra
-> Criado bajo la disciplina del clan del Tablero, cada miembro aprendió que en el ajedrez ninguna pieza actúa sola. Una vez por combate, un miembro del Tablero puede anular el CD de una habilidad propia si en ese mismo turno otro miembro del Tablero presente en el combate acaba de usar la suya.
+> [!example] Pieza de Elite
+> Todas las piezas del Tablero tienen la opcion de llamar refuerzos siempre que esten por los alrededores de Arjonia
 
 ## Ver también
 - [[Arjonia]]
-- [[Dinamica del Tablero]]
-- [[Pawn Pantochrome]]
-- [[King Achromatic]]
-- [[Queen Achromatic]]
-- [[Tower Monochrome]]
-- [[Bishop Bichrome]]
-- [[Knight Polychrome]]
