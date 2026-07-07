@@ -8,6 +8,16 @@
 
 ![[{123B3DAE-A6AF-478F-9EBE-6118D2CDFF9B}.png]]
 
+> [!note] Tipos de daño
+> Los tipos de daño han sido adaptados al sistema de terra
+> Daño negro, rojo y palido = ATK Fisico
+> Daño Azul = Daño Karmico
+> La unica excepcion a esta regla son las armas a distancia, en su mayoria son daño Karmico
+
+
+
+
+
 ## Ver también
 - [[Niveles de Riesgo]]
 - [[Anormalidades]]

@@ -63,9 +63,8 @@
 > **Habilidad especial:** Cada que el portador recibe un golpe karmico, el daño que inflige con cualquier arma que lleve equipada aumenta por 10 ATK (hasta un maximo del doble de daño base del arma). También inflige 10 de daño fisico pasivo (aumentado a 20 si se combina con el Regalo homónimo) a quienes estén cerca. Aliados incluidos.
 
 > [!example] 🎹 Da Capo — The Silent Orchestra
-> Resistencia sobresaliente contra Blanco (la mejor de su categoría), buena contra Rojo y Negro; es el único traje ALEPH con una debilidad marcada: vulnerable a Pálido.
-> **DEF (Terra):** -60 contra Blanco (resistente), -40 general contra Rojo/Negro, +50% de vulnerabilidad contra Pálido (débil).
-> **Habilidad especial:** Ninguna adicional sin el Regalo homónimo equipado (ver Regalos).
+> **DEF (Terra):** +60 General
+> **Habilidad especial:** Ninguna adicional sin el Regalo homónimo equipado (ver E.G.O Gifts).
 
 > [!example] 🗡️ Mimicry — Nothing There
 > La mejor resistencia a Rojo de todo el juego, capaz de absorber incluso los propios ataques de Nothing There; también muy buena resistencia a Blanco y Negro, y sin debilidad a Pálido (poco común entre los trajes ALEPH).
