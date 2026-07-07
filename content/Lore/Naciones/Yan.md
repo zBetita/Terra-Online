@@ -1,0 +1,6 @@
+>[!Info] 
+>*Dentro de Yan, una enorme cultura se vive y celebra de forma constante. Usualmente siendo vista como una utopia a pesar de la enorme censura que viven los Tengu dentro de esta, pues no muchos logran realizar su trabajo como corresponde y otros han de hacerlo a escondidas. Es conocida por todo tipo de celebraciónes incluyendo una arena donde se disputan combates nacionales.*
+*Durante la guerra del humo, el gobierno de Yan se mantuvo en una gran y sorprendente armonia debido a la gran fuerza policial y social que tenían haciendo que los infectados hagan protestas pacificas y el gobierno les escuche, un privilegio que solo pudo ocurrir en este lugar. Algo que no se vio durante los 3 días oscuros donde grandes miembros del anular empezaron a secuestrar gente de manera excesiva para hacer ''grandes obras de arte''. Actualmente aparenta mantenerse igual que hace un tiempo, solo que con una baja de población bastante notoria pero al menos las calles ya no estan tan sobre habitadas como antes.*
+![[Pasted image 20260625232901.png]]
+## Ver también
+- [[Mapa]]

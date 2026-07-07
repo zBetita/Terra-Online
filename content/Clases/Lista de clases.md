@@ -1,0 +1,21 @@
+
+En terra cada persona tiene su especialidad, conocida como clases.
+
+- [[Arbitro]]
+- [[Archer]]
+- [[Artista Marcial]]
+- [[Berserker]]
+- [[Defensor]]
+- [[Druida]]
+- [[Espadachin]]
+- [[Explorador]]
+- [[Ingeniero]]
+- [[Maestro de Armas EGO]]
+- [[Maestro Espiritual]]
+- [[Mago]]
+- [[Medico]]
+- [[Paladin]]
+- [[Picaro]]
+- [[Rider]]
+- [[Summoner]]
+- [[Vanguardia]]
