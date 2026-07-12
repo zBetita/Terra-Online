@@ -1,3 +1,4 @@
+El mapa de terra:
 ![[Pasted image 20260626001743.png]]
 
 

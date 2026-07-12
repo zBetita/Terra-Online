@@ -4,7 +4,7 @@
 > A la hora en que dios te creó, eras alguien importante, alguien relevante en su infinita historia. Pero fuiste desechado. Esto no significa que tu configuración se haya revertido. Eres el protagonista de tu propia historia, no la del mundo completo.
 
 > [!note] Karma inicial
-> 100
+> 1000
 
 > [!note] Bonus de ATK físico
 > +20 ATK

@@ -1,15 +1,3 @@
----
-marker:
-    - coordinates: 100, 300
-      icon: lucide-tree-pine #: Lucide icon
-      colour: "#039c4b"
-      minZoom: 1
-    - coordinates: 200, 300
-      icon: mdi:alien #: Material design icon using Iconify
-    - coordinates: 5, 5
-      mapName: mapName
-      colour: "#bdf123"
----
 
 >[!Info] 
 >*La ciudad de Victoria es centrada por su gran predominio de la raza de los dragones y bestias, siendo donde igualmente gran parte de los infectados comenzaron a nacer y varios sucesos nacieron de este lugar. Debido a la guerra del humo esta ciudad no llego a ser destruida gracias a la fuerza exorbitante de los dragones como raza, pero esto no significa que no sufrieron grandes daños debido al mismo humo usado dentro de esta nación.*

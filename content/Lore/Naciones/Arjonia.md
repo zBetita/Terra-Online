@@ -1,11 +1,3 @@
----
-marker:
-  - coordinates: 378, 692
-    mapName: terra
-    icon: lucide-crown
-    colour: "#e8b04b"
-mar:
----
 
 >[!Info] 
 >*Arjonia es la ciudad estado central de todo Terra, pues no solo tiene el territorio mas grande si no que también tomaron una extraña decisión de estar mas aislada del resto de civilizaciónes, viviendo en solitario con unos muros enormes que cubren sus fronteras. Aunque estos son recientes, esta decisión no ha ayudado a su situación politica dentro de la misma ciudad.*
