@@ -18,7 +18,7 @@
 > Fuerza superior a la de los humanos aunque menor que la de un Oni.
 
 > [!example] Habilidad propia
-> Cada arma EGO cuenta con una habilidad única propia.
+> Cada arma EGO cuenta con una habilidad única propia. Esta habilidad solo puede utilizarse cuando el Arma EGO esta en su forma de **arma**.
 
 ## Pasivas con portador
 
