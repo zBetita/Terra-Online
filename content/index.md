@@ -55,6 +55,6 @@ En el mundo de Terra existen 10 Naciones con culturas vastamente diferentes
 | Nación en colapso      | [[Ursus]]     |
 | Nación de los Kappa    | [[Vallachia]] |
 | Nación de Dragones     | [[Victoria]]  |
-| Nación de la "Utopóa"  | [[Yan]]       |
+| Nación de la "Utopía"  | [[Yan]]       |
 
 
