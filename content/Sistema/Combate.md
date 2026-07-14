@@ -55,7 +55,7 @@
 Las habilidades Karmicas son habilidades que atraves del gasto de Karma logran un efecto, este ya sea ofensivo, defensivo, curativo o utilitario. Mientras que las pasivas reflejan una parte del personaje, apoyando su estilo de pelea, lore o habilidad Karmica. Aqui una lista de ejemplos de como una habilidad debe ser construida.
 
 >[!note] Estos son Ejemplos, los jugadores pueden basarse en estos para construir sus habilidades con total libertad.
->
+
 >[!danger] Habilidad Ofensiva + Pasiva
 >
 >-Activa- CD 2 - Karma 50
