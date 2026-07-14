@@ -19,8 +19,8 @@
 > Ganan +50 de karma adicional y pierden un 50% menos al usar habilidades.
 
 > [!example] Pasiva: Espiritualidad natural
-> CD reducido a la hora de invocar su espíritu. Solo funciona con la clase **[[Maestro Espiritual]]**.
+> CD reducido a la hora de invocar su espíritu. Solo funciona con la clase **[[Terra online/quartz/content/Clases/Maestro Espiritual]]**.
 
 ## Ver también
 - [[Karma]]
-- [[Maestro Espiritual]]
+- [[Terra online/quartz/content/Clases/Maestro Espiritual]]

@@ -44,7 +44,7 @@
 
 > [!note] Clase
 > Define el rol y estilo de combate del personaje.
-> Ver [[Lista de clases|Clases]] para opciones disponibles.
+> Ver [[Terra online/quartz/content/Clases/Lista de clases|Clases]] para opciones disponibles.
 
 > [!note] Equipamiento
 > Nombre del arma o armadura seguido de su rareza entre paréntesis.
@@ -62,10 +62,6 @@
 
 > [!note] Pasiva propia
 > Una única pasiva que refleja el estilo o identidad del personaje. No consume karma ni tiene CD.
-
-> [!note] Pasiva de gremio — Solo Elegido por Gremio
-> Pasiva otorgada por el gremio que crió al personaje. No consume karma ni tiene CD.
-> Ver [[Elegido por Gremio]] para las pasivas disponibles por gremio. La pasiva es solamente **Narrativa**
 
 ---
 # Formato Actual

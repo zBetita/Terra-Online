@@ -4,7 +4,7 @@
 > Esta raza ocurre cuando un maestro de los espíritus toma un alma y la coloca en un nuevo cuerpo, dando renacimiento a esta persona. Solo se puede hacer con gente sin recuerdos a causa de la torre.
 
 > [!warning] Obtención
-> Puede desbloquearse si tu personaje muere y un [[Maestro Espiritual]] pasa tu alma a una marioneta. De normal es de spins.
+> Puede desbloquearse si tu personaje muere y un [[Terra online/quartz/content/Clases/Maestro Espiritual]] pasa tu alma a una marioneta. De normal es de spins.
 
 > [!note] Karma inicial
 > Sin bonus adicional.
@@ -25,5 +25,5 @@
 > Son casi hechos de karma puro. Sus capacidades con el karma son absolutamente poderosas.
 
 ## Ver también
-- [[Maestro Espiritual]]
+- [[Terra online/quartz/content/Clases/Maestro Espiritual]]
 - [[Karma]]
