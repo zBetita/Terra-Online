@@ -55,7 +55,7 @@
 Las habilidades Karmicas son habilidades que atraves del gasto de Karma logran un efecto, este ya sea ofensivo, defensivo, curativo o utilitario. Mientras que las pasivas reflejan una parte del personaje, apoyando su estilo de pelea, lore o habilidad Karmica. Aqui una lista de ejemplos de como una habilidad debe ser construida.
 
 >[!note] Estos son Ejemplos, los jugadores pueden basarse en estos para construir sus habilidades con total libertad.
-
+>
 >[!danger] Habilidad Ofensiva + Pasiva
 >
 >-Activa- CD 2 - Karma 50
@@ -66,26 +66,26 @@ Cada ataque físico de Juanito que conecta deja 1 carga de Corrosión en el obje
 
 >[!Summary] Habilidad Defensiva + Pasiva
 >
--Activa- CD 5 - Karma 200
-Aumenta la defensa del Jugador o un Aliado por 100 durante 3 turnos
+>-Activa- CD 5 - Karma 200
+>Aumenta la defensa del Jugador o un Aliado por 100 durante 3 turnos
 >
--Pasiva- 
-Cuando su Karma baja a la mitad, su defensa aumenta por 100 hasta el final del combate.
+>-Pasiva- 
+>Cuando su Karma baja a la mitad, su defensa aumenta por 100 hasta el final del combate.
 
 >[!Success] Habilidad Curativa + Pasiva
 >
--Activa- CD 5 - Karma 30
-Regenera 20 de Karma durante 3 turnos a si mismo o a aliados.
+>-Activa- CD 5 - Karma 30
+>Regenera 20 de Karma durante 3 turnos a si mismo o a aliados.
 >
--Pasiva-
-Aliados que esten afectados por algun estado (Ej: Veneno) el efecto dañino de este se reduce a la mitad.
+>-Pasiva-
+>Aliados que esten afectados por algun estado (Ej: Veneno) el efecto dañino de este se reduce a la mitad.
 
 >[!Warning] Habilidad Utilitaria + Pasiva 
--Activa-  CD - 3 Karma 100
-Aturde al objetivo por 2 turnos
+>-Activa-  CD - 3 Karma 100
+>Aturde al objetivo por 2 turnos
 >
--Pasiva-
-Cuando ataca a objetivos aturdidos, ignora su defensa.
+>-Pasiva-
+>Cuando ataca a objetivos aturdidos, ignora su defensa.
 
 
 ## Ver también
